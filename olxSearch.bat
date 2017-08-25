@@ -1,0 +1,1 @@
+@py.exe C:\python34\myscripts\amaz.py %*
