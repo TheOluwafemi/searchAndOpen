@@ -2,7 +2,7 @@
 # this script accepts a location from the system in cmd
 # also a product to search for on an e-commerce website olx.com.ng
 # no olx API, would have used that to minimize the code
-# practice.py
+# olxSearch.py
 
 import sys
 import requests
